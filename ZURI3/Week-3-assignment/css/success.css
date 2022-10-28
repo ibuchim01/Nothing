@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(115, 194, 115);
+
+}
+.container{
+  width: 50%;
+  padding: 50px;
+  margin: 10% auto;
+  background-color: azure;
+  border-radius: 50px;
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+  color: green;
+  text-align: center;
+
+}
